@@ -1,0 +1,3 @@
+?><td><img src="images/ <?php echo "/$image[$i]"?> height="200" width="150" alt=""><img></td>
+
+<td><img src="images/<?php echo "$image[$i]"?>height="200" width="150" alt=""><img></td>
